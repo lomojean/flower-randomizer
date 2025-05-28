@@ -45,12 +45,6 @@ function imgchange() {
     "images/flwr10.jpeg";
       myImages1[11] =
     "images/flwr11.jpeg";
-        myImages1[12] =
-    "images/flwr12.jpeg";
-        myImages1[13] =
-    "images/flwr13.jpeg";
-        myImages1[14] =
-    "images/flwr14.jpeg";
   var rnd = Math.floor(Math.random() * myImages1.length);
   if (rnd == 0) {
     rnd = 1;
